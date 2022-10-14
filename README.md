@@ -15,6 +15,10 @@ Predicate-Argument Graphs extracted from the unstructured text have a high cardi
 - Require 'K' for verbs
 - Require evaluation dataset
 
+
+Given the unlabeled data, our approach provides a lookup table mapping source verb to target verb. 
+
+
 ## Setup
 
 Run the following to setup the code
