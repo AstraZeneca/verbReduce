@@ -19,6 +19,13 @@ Predicate-Argument Graphs extracted from the unstructured text have a high cardi
 Given the unlabeled data, our approach provides a lookup table mapping source verb to target verb. 
 
 
+
+## Architecture Diagram
+
+![Untitled Diagram drawio (7)](https://user-images.githubusercontent.com/44647776/195863083-1c1c69a3-02e2-423d-b101-b2f68063d932.png)
+
+
+
 ## Setup
 
 Run the following to setup the code
@@ -32,11 +39,6 @@ Tests:
 ```
 pytest -s
 ```
-
-## Architecture Diagram
-
-![Untitled Diagram drawio (7)](https://user-images.githubusercontent.com/44647776/195863083-1c1c69a3-02e2-423d-b101-b2f68063d932.png)
-
 
 ## Running the code
 
