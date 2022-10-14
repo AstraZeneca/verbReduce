@@ -1,5 +1,8 @@
 # Verb Cardinality Reduction for BioMedical Pred-Argument Graphs Extracted from Unstructured Text
 
+![Maturity level-Prototype](https://img.shields.io/badge/Maturity%20Level-Prototype-red)
+![PyTorch Lightning](https://img.shields.io/badge/pytorch-lightning-blue.svg?logo=PyTorch%20Lightning)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Introduction
 
