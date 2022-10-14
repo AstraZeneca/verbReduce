@@ -1,4 +1,4 @@
-# Verb Cardinality Reduction for BioMedical Pred-Argument Graphs Extracted from Unstructured Text via Self-Supervised Language Models
+# Verb Cardinality Reduction for BioMedical Pred-Argument Graphs Extracted from Unstructured Text
 
 
 ## Introduction
@@ -29,6 +29,8 @@ pytest -s
 
 ## Architecture Diagram
 
+![Untitled Diagram drawio (7)](https://user-images.githubusercontent.com/44647776/195863083-1c1c69a3-02e2-423d-b101-b2f68063d932.png)
+
 
 ## Running the code
 
@@ -54,9 +56,9 @@ We use the external libraries in the code, so it is useful to be familiar with t
 
 
 ### Links
-- [HOWTO: Training the Self-Supervised Model]()
+- [HOWTO: Training the Self-Supervised Model](https://github.com/AZ-AI/verbReduce/wiki/HOWTO:-Training-the-Self-Supervised-Model)
 - [HOWTO: Generating Lookup Table
-]()
+](https://github.com/AZ-AI/verbReduce/wiki/HOWTO:-Generating-Lookup-Table)
 
 
 
@@ -65,9 +67,9 @@ We use the external libraries in the code, so it is useful to be familiar with t
 
 Addressing the challenge in three parts:
 
-- [Identify potential set candidate substitute verbs]()
-- [Reduce the cardinality of verbs]()
-- [Evaluate the accuracy of replacements]()
+- [Identify potential set candidate substitute verbs](https://github.com/AZ-AI/verbReduce/wiki/Self-Supervised-Masked-Language-Model)
+- [Reduce the cardinality of verbs](https://github.com/AZ-AI/verbReduce/wiki/Verb-Reduction-using-HittingSet-SAT-Solver)
+- [Evaluate the accuracy of replacements](https://github.com/AZ-AI/verbReduce/wiki/Evaluate-the-accuracy-of-replacements)
 
 
 ## Features to be implemented
