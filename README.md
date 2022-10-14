@@ -6,8 +6,7 @@
 
 ## Introduction
 
-
-Predictate-Argument Graphs extracted from unstructured text, has a high cardinality of verbs (Arguments) resulting in limiting the use of graphs. Particularly in the biomedical domain, there are no existing data sources that could use to train or map verbs. The challenge of reducing the verb count while not losing information is key challenge.
+Predicate-Argument Graphs extracted from the unstructured text have a high cardinality of verbs (Arguments), limiting the use of graphs. Particularly in the biomedical domain, there are no existing data sources that could use to train or map verbs. Reducing the verb count while not losing information is the key challenge.
 
 `verbReduce` do not:
 
