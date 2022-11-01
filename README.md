@@ -54,9 +54,9 @@ We use the external libraries in the code, so it is useful to be familiar with t
 
 
 ### Links
-- [HOWTO: Training the Self-Supervised Model]()
+- [HOWTO: Training the Self-Supervised Model](https://github.com/AstraZeneca/verbReduce/wiki/HOWTO:-Training-the-Self-Supervised-Model)
 - [HOWTO: Generating Lookup Table
-]()
+](https://github.com/AstraZeneca/verbReduce/wiki/HOWTO:-Generating-Lookup-Table)
 
 
 
@@ -65,9 +65,9 @@ We use the external libraries in the code, so it is useful to be familiar with t
 
 Addressing the challenge in three parts:
 
-- [Identify potential set candidate substitute verbs]()
-- [Reduce the cardinality of verbs]()
-- [Evaluate the accuracy of replacements]()
+- [Identify potential set candidate substitute verbs](https://github.com/AstraZeneca/verbReduce/wiki/Self-Supervised-Masked-Language-Model)
+- [Reduce the cardinality of verbs](https://github.com/AstraZeneca/verbReduce/wiki/Verb-Reduction)
+- [Evaluate the accuracy of replacements](https://github.com/AstraZeneca/verbReduce/wiki/Evaluate-the-accuracy-of-replacements)
 
 
 ## Features to be implemented
